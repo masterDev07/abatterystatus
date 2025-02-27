@@ -1,11 +1,22 @@
 ```markdown
 # Abatterystatus 🚀
 
-**Abatterystatus** Bayangkan sebuah aplikasi Android yang tidak hanya memberi tahu Anda saat baterai perangkat Anda perlu diisi ulang atau dilepas dari charger, tetapi juga menyapa Anda dengan nama! 🎉 Abatterystatus hadir untuk memberikan pengalaman yang lebih personal dan menyenangkan. Berbeda dengan aplikasi sejenis yang hanya memberikan notifikasi umum, Abatterystatus menjadikan setiap interaksi lebih akrab dan hangat. Dengan teknologi canggih yang kami tawarkan, Anda tidak hanya mendapatkan informasi penting tentang status baterai, tetapi juga sentuhan personal yang membuat Anda merasa lebih terhubung dengan perangkat Anda. Jangan biarkan baterai Anda habis tanpa peringatan—biarkan Abatterystatus menjadi asisten setia Anda dalam menjaga daya perangkat! 🔋✨
+**Abatterystatus** Bayangkan sebuah aplikasi Android yang tidak hanya memberi 
+tahu Anda saat baterai perangkat Anda perlu diisi ulang atau dilepas dari 
+charger, tetapi juga menyapa Anda dengan nama! 🎉 Abatterystatus hadir untuk 
+memberikan pengalaman yang lebih personal dan menyenangkan. Berbeda dengan 
+aplikasi sejenis yang hanya memberikan notifikasi umum, Abatterystatus 
+menjadikan setiap interaksi lebih akrab dan hangat. Dengan teknologi canggih 
+yang kami tawarkan, Anda tidak hanya mendapatkan informasi penting tentang 
+status baterai, tetapi juga sentuhan personal yang membuat Anda merasa lebih 
+terhubung dengan perangkat Anda. Jangan biarkan baterai Anda habis tanpa 
+peringatan—biarkan Abatterystatus menjadi asisten setia Anda dalam menjaga daya 
+perangkat! 🔋✨
 
 ## Fitur Utama 🌟
 
-- Notifikasi suara yang menyapa pemilik perangkat saat baterai perlu diisi ulang atau dilepas dari charger. 🔊
+- Notifikasi suara yang menyapa pemilik perangkat saat baterai perlu diisi ulang 
+atau dilepas dari charger. 🔊
 - Konfigurasi yang mudah untuk menyesuaikan pengaturan notifikasi dan volume. ⚙️
 - Penjadwalan eksekusi notifikasi setiap menit. ⏰
 - Dukungan untuk bahasa Indonesia. 🇮🇩
