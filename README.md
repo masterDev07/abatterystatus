@@ -14,7 +14,8 @@ asisten setia Anda dalam menjaga daya perangkat! 🔋✨
 
 ## Fitur Utama 🌟
 
-- Notifikasi suara yang menyapa pemilik perangkat saat baterai perlu diisi ulang atau dilepas dari charger. 🔊
+- Notifikasi suara yang menyapa pemilik perangkat saat baterai perlu diisi
+  ulang atau dilepas dari charger. 🔊
 - Konfigurasi yang mudah untuk menyesuaikan pengaturan notifikasi dan volume. ⚙️
 - Penjadwalan eksekusi notifikasi setiap menit. ⏰
 - Dukungan untuk bahasa Indonesia. 🇮🇩
@@ -66,15 +67,18 @@ Anda dapat mengonfigurasi beberapa pengaturan dalam file ini, termasuk:
 
 ### Batas Waktu Penggunaan ⏳
 
-Aplikasi ini hanya tersedia secara gratis hingga **[Expired](kadaluwarsa.txt)**. Untuk yang 
-ingin memesan aplikasi berbayar hingga 15 tahun, silakan hubungi pembuat Abatterystatus melalui email. 📧
+Aplikasi ini hanya tersedia secara gratis hingga **[Expired](kadaluwarsa.txt)**. 
+Untuk yang ingin memesan aplikasi yang expired hingga 15 tahun, silakan hubungi 
+pembuat Abatterystatus melalui email. 📧
 
 ## Kontak 📬
 
-Jika Anda memiliki pertanyaan atau ingin mendapatkan versi berbayar, silakan hubungi kami di:
-- ✉️ Email: [emasmoro@gmail.com](mailto:emasmoro@gmail.com)
+Jika Anda memiliki pertanyaan atau ingin mendapatkan versi expired hingga 15 
+tahun, silakan hubungi kami di:
+- ✉️ Email: [duitmoro@yahoo.com](mailto:duitmoro@yahoo.com)
 
 ---
 
-Terima kasih telah menggunakan Abatterystatus! Semoga aplikasi ini bermanfaat untuk Anda. 🎉
+Terima kasih telah menggunakan Abatterystatus! Semoga aplikasi ini bermanfaat 
+untuk Anda. 🎉
 ```
