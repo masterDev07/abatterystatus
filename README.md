@@ -1,4 +1,3 @@
-```markdown
 # Abatterystatus 🚀
 
 **Abatterystatus** adalah aplikasi Android yang tidak hanya memberi tahu Anda 
@@ -23,7 +22,7 @@ asisten setia Anda dalam menjaga daya perangkat! 🔋✨
 ## Lokasi File Konfigurasi 📁
 
 File konfigurasi Abatterystatus dapat ditemukan di:
-```
+```markdown
 /data/data/com.termux/files/home/storage/shared/abatterystatus/abatterystatus_configuration.conf
 ```
 
@@ -61,7 +60,7 @@ Anda dapat mengonfigurasi beberapa pengaturan dalam file ini, termasuk:
 - **Batas Minimal dan Maksimal Baterai**: Atur batas untuk pengisian dan pelepasan charger. 🔋
 - **Notifikasi Suara**: Ganti pesan notifikasi sesuai keinginan Anda. Misalnya:
   ```
-  hai juragan bakso, batrai hape anda $persenBatrai persen perlu dicas lho.
+  Hai juragan bakso, batrai hape juragan $persenBatrai persen perlu dicas.
   ```
   Di mana `$persenBatrai` adalah variabel yang berisi nilai persentase baterai saat ini. 📊
 
@@ -69,16 +68,15 @@ Anda dapat mengonfigurasi beberapa pengaturan dalam file ini, termasuk:
 
 Aplikasi ini hanya tersedia secara gratis hingga **[Expired](kadaluwarsa.txt)**. 
 Untuk yang ingin memesan aplikasi yang expired hingga 15 tahun, silakan hubungi 
-pembuat Abatterystatus melalui email. 📧
+pembuat Abatterystatus melalui kontak dibawah ini. 📧
 
 ## Kontak 📬
 
-Jika Anda memiliki pertanyaan atau ingin mendapatkan versi expired hingga 15 
-tahun, silakan hubungi kami di:
+Jika Anda memiliki pertanyaan atau lainnya, silakan hubungi kami di:
 - ✉️ Email: [duitmoro@yahoo.com](mailto:duitmoro@yahoo.com)
 
 ---
 
 Terima kasih telah menggunakan Abatterystatus! Semoga aplikasi ini bermanfaat 
 untuk Anda. 🎉
-```
+
