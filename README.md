@@ -63,6 +63,23 @@ Anda dapat mengonfigurasi beberapa pengaturan dalam file ini, termasuk:
   Hai juragan bakso, batrai hape juragan $persenBatrai persen perlu dicas.
   ```
   Di mana `$persenBatrai` adalah variabel yang berisi nilai persentase baterai saat ini. 📊
+  
+### How to Install Abatterystatus 🚀
+
+1. Go to your home directory on Termux
+2. Clone this repository: 🖥️✨
+   ```bash
+   git clone https://github.com/masterDev07/abatterystatus
+   ```
+3. Create schedule for abatterystatus
+   ```bash
+   ./abatterystatus bj
+   ```     
+4. Create alias
+   ```bash
+   crontab -e
+   alias sbat='/data/data/com.termux/files/home/abatterystatus/abatterystatus'
+   ```   
 
 ### Batas Waktu Penggunaan ⏳
 
